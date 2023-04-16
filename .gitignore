@@ -1,0 +1,20 @@
+# Python
+*.py[cod]
+*.so
+*.egg-info
+dist/
+build/
+__pycache__/
+.idea/
+
+# pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+
+# Audio file
+audio.mp3
+
+# Virtual Environment
+venv/
